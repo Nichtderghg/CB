@@ -9,4 +9,4 @@ plugins:
 
 # Basis Einstellungen
 baseurl: "" # falls Seite in root gehostet wird
-url: "https://<dein-username>.github.io" # z.B. https://Nichtderghg.github.io
+url: " https://nichtderghg.github.io/CB/" # z.B. https://Nichtderghg.github.io
