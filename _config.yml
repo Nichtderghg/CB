@@ -1,0 +1,12 @@
+title: "Meine Webseite"
+# Option 1: offizielles GitHub Pages Theme (als Gem)
+# theme: jekyll-theme-slate
+
+# Option 2 (empfohlen für GitHub Pages remote themes):
+remote_theme: pages-themes/minimal@v0.4
+plugins:
+  - jekyll-remote-theme
+
+# Basis Einstellungen
+baseurl: "" # falls Seite in root gehostet wird
+url: "https://<dein-username>.github.io" # z.B. https://Nichtderghg.github.io
